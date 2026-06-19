@@ -162,56 +162,8 @@ background-size: contain;
     color: black;
     padding-top: 10px;
 }
-.zuivan {
-    display:flex;
-    width: 513px;
-    height: 112px;
-    border-radius: 120px;
-    margin-left: 120px;
-    margin-top: 60px;
-    font-size: 24px;
-    display: flex;
-}
-.zuivan-1{
-    display:flex;
-    justify-content: space-between;
-    width: 513px;
-    height: 112px;
-    border-radius: 120px;
-    margin-left: 120px;
-    margin-top: 20px;
-    font-size: 24px;
+.dvrs{display: flex;
     
-}
-.zuivan-2{
-    display:flex;
-    width: 513px;
-    height: 112px;
-    border-radius: 120px;
-    margin-left: 120px;
-    margin-top: 20px;
-    font-size: 24px;
-
-}
-.zuivan-3{
-    display:flex;
-    width: 513px;
-    height: 112px;
-    border-radius: 120px;
-    margin-left: 120px;
-    margin-top: 20px;
-    font-size: 24px;
-
-}
-.zuivan-4{
-    display:flex;
-    width: 513px;
-    height: 112px;
-    border-radius: 120px;
-    margin-left: 120px;
-    margin-top: 20px;
-    font-size: 24px;
-
 }
 .section-4{
     background-image: url(./images/Price&Footer\ image.png);
