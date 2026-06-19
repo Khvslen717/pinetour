@@ -1,0 +1,221 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.section-1 {
+background-image: url("./images/hero.png");
+width: 1440px;
+height:773px ;
+background-position: center;
+background-size: contain;
+}
+.header {
+    height: 100px;
+    padding: 33px 118px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.en {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu{
+    display: flex;
+    gap: 24px;
+    color: white;
+    font-size: 18px;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 69px;
+
+
+
+}
+.pure-magic{
+    font-size: 80px;
+    color:#E8EDF2B8;
+
+}
+.awaits{
+    font-size: 250px;
+    color:#FDFDFEFA;
+
+}
+.too{
+    font-size: 64px;
+    color:#FFFFFFCC;
+}
+.section-2{
+    background-image: url(./images/Location\ image.png);
+    display: flex;
+    width: 1440px;
+    height:500px ;
+    background-position: center;
+    background-size: contain;
+    justify-content: space-between;
+    padding: 65px 88px;
+    
+}
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.goliin-zurag{
+    background-image: url(./images/4.png);
+    width: 275.49px;
+    height: 370px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:#E8EDF2B8;
+    font-size: 37px;
+    text-align: center;
+    box-shadow: #E8EDF2B8;
+     box-shadow: -8px -8px 0 0 rgba(31, 114, 170,0.46 ) , 8px 8px 0 0 rgba(41, 114, 139, 0.25) ;
+}
+.goliin-zurag1{
+    background-image: url(./images/3.png);
+    width: 275.49px;
+    height: 370px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E8EDF2B8;
+    font-size: 37px;
+    text-align: center;
+    box-shadow: -8px -8px 0 0 rgba(31, 114, 170,0.46 ) , 8px 8px 0 0 rgba(41, 114, 139, 0.25) ;
+}
+.goliin-zurag2{
+    background-image: url(./images/2.png);
+    width: 274.49px;
+    height: 370px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E8EDF2B8;
+    font-size: 37px;
+    text-align: center;
+     box-shadow: -8px -8px 0 0 rgba(31, 114, 170,0.46 ) , 8px 8px 0 0 rgba(41, 114, 139, 0.25) ;
+}
+.goliin-zurag3{
+    background-image: url(./images/1.png);
+    width: 275.49px;
+    height: 370px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E8EDF2B8;
+    font-size: 37px;
+    text-align: center;
+     box-shadow: -8px -8px 0 0 rgba(31, 114, 170,0.46 ) , 8px 8px 0 0 rgba(41, 114, 139, 0.25) ;
+}
+.section-3{
+    background-image: url(./images/Roadmap\ image.png);
+    width: 1440px;
+    height: 1020px;
+}
+.Destination-of-our-agency{
+    display:flex;
+    justify-content: center;
+    font-weight: 600px;
+    font-size: 42px;
+    color: black;
+    padding-top: 120px;
+}
+.Packs{
+    display: flex;
+    justify-content: center;
+    font-weight: 500px;
+    font-size: 20px;
+    color: black;
+    padding-top: 10px;
+}
+.zuivan {
+    display:flex;
+    width: 513px;
+    height: 112px;
+    border-radius: 120px;
+    margin-left: 120px;
+    margin-top: 60px;
+    font-size: 24px;
+    display: flex;
+}
+.zuivan-1{
+    display:flex;
+    justify-content: space-between;
+    width: 513px;
+    height: 112px;
+    border-radius: 120px;
+    margin-left: 120px;
+    margin-top: 20px;
+    font-size: 24px;
+    
+}
+.zuivan-2{
+    display:flex;
+    width: 513px;
+    height: 112px;
+    border-radius: 120px;
+    margin-left: 120px;
+    margin-top: 20px;
+    font-size: 24px;
+
+}
+.zuivan-3{
+    display:flex;
+    width: 513px;
+    height: 112px;
+    border-radius: 120px;
+    margin-left: 120px;
+    margin-top: 20px;
+    font-size: 24px;
+
+}
+.zuivan-4{
+    display:flex;
+    width: 513px;
+    height: 112px;
+    border-radius: 120px;
+    margin-left: 120px;
+    margin-top: 20px;
+    font-size: 24px;
+
+}
+.section-4{
+    background-image: url(./images/Price&Footer\ image.png);
+    width: 1440px;
+    height: 1120px;
+}
+
